@@ -1,0 +1,43 @@
+{
+  "/home/krushna/hackathons/ethproof/contracts/Counter.sol": {
+    "jobHash": "solc-0_8_34-54d19f273879470985d478283d396c711305d0cb",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/home/krushna/hackathons/ethproof/artifacts/contracts/Counter.sol/Counter.json"
+    ],
+    "buildInfoPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.json",
+    "buildInfoOutputPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.output.json",
+    "typeFilePath": "/home/krushna/hackathons/ethproof/artifacts/contracts/Counter.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/home/krushna/hackathons/ethproof/artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "/home/krushna/hackathons/ethproof/contracts/Counter.t.sol": {
+    "jobHash": "solc-0_8_34-be3d778d3365cac846919cfa15fc94a240d5fa8b",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/home/krushna/hackathons/ethproof/artifacts/contracts/Counter.t.sol/CounterTest.json"
+    ],
+    "buildInfoPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.json",
+    "buildInfoOutputPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.output.json",
+    "wasm": false,
+    "artifactsDirectory": "/home/krushna/hackathons/ethproof/artifacts",
+    "emitsTypeDeclarations": false
+  },
+  "/home/krushna/hackathons/ethproof/contracts/EthProof.sol": {
+    "jobHash": "solc-0_8_34-0f47f4e791a57691846a2de90eebbbc3f0d1f2b1",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/home/krushna/hackathons/ethproof/artifacts/contracts/EthProof.sol/EthProof.json"
+    ],
+    "buildInfoPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.json",
+    "buildInfoOutputPath": "/home/krushna/hackathons/ethproof/artifacts/build-info/solc-0_8_34-330d9864451fb40b44c4e50ec6571704c88a39cc.output.json",
+    "typeFilePath": "/home/krushna/hackathons/ethproof/artifacts/contracts/EthProof.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/home/krushna/hackathons/ethproof/artifacts",
+    "emitsTypeDeclarations": true
+  }
+}
